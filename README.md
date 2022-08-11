@@ -1,29 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tejas Bhandvalkar</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Problem+Solver;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src=""></a> -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Web+Development;Data+Structures+%26+Algorithms+%7C+C+%7CC%2B%2B" alt="Typing SVG" /></a>
 </p>
 
 - 🔭 I’m currently working on **MERN**
-- 🌱 I’m currently learning **React Js**
-- 💬 Ask me about **Data Structures And Algorithms,C++,Java,JavaScript**
+- 🌱 I’m currently learning **Node Js**
+- 💬 Ask me about **Data Structures And Algorithms,JavaScript,C,C++**
 - 📫 How to reach me **teja.bhandvalkar@gmail.com**
-
-
-
-
-
-
-
-
-
-
-
-
-
-- 👋 Hi, I’m @TejaBhai1510
-- 👀 I’m interested in C++, Python, and majorly Web Development.
-
-<!---
-TejaBhai1510/TejaBhai1510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
