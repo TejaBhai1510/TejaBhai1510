@@ -4,7 +4,6 @@
 </p>
 
 - 🔭 I’m currently working on **MERN**
-- 🌱 I’m currently learning **Node Js**
-- 💬 Ask me about **Data Structures And Algorithms,JavaScript,C,C++**
+- 🌱 I’m currently learning **Express JS**
+- 💬 Ask me about **Data Structures And Algorithms, JavaScript, CSS, C, C++**
 - 📫 You can reach me at **teja.bhandvalkar@gmail.com**
-
